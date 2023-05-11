@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.1221f536.chunk.css",
-    "main.js": "/static/js/main.4c2d7d51.chunk.js",
-    "main.js.map": "/static/js/main.4c2d7d51.chunk.js.map",
+    "main.css": "/static/css/main.fbb6a741.chunk.css",
+    "main.js": "/static/js/main.a29f637b.chunk.js",
+    "main.js.map": "/static/js/main.a29f637b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.81fdc3e1.js",
     "runtime-main.js.map": "/static/js/runtime-main.81fdc3e1.js.map",
     "static/js/2.efc25ff1.chunk.js": "/static/js/2.efc25ff1.chunk.js",
     "static/js/2.efc25ff1.chunk.js.map": "/static/js/2.efc25ff1.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.1221f536.chunk.css.map": "/static/css/main.1221f536.chunk.css.map",
+    "static/css/main.fbb6a741.chunk.css.map": "/static/css/main.fbb6a741.chunk.css.map",
     "static/js/2.efc25ff1.chunk.js.LICENSE.txt": "/static/js/2.efc25ff1.chunk.js.LICENSE.txt",
     "static/media/Login.css": "/static/media/BG.6545346a.jpg",
+    "static/media/Profile.css": "/static/media/HEADER.e4595b82.jpg",
     "static/media/PENALDO.98d36470.png": "/static/media/PENALDO.98d36470.png",
-    "static/media/Profile.css": "/static/media/banner.a614afff.png",
     "static/media/Mintzy.css": "/static/media/stake.23cf1580.png"
   },
   "entrypoints": [
     "static/js/runtime-main.81fdc3e1.js",
     "static/js/2.efc25ff1.chunk.js",
-    "static/css/main.1221f536.chunk.css",
-    "static/js/main.4c2d7d51.chunk.js"
+    "static/css/main.fbb6a741.chunk.css",
+    "static/js/main.a29f637b.chunk.js"
   ]
 }
